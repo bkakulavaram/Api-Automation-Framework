@@ -1,0 +1,15 @@
+{
+  "pickupDetails": {
+    "nextPickupDate": "2026-06-13",
+    "readyByTime": "16:00",
+    "closeTime": "18:00"
+  },
+  "shipmentDetails": {
+    "totalWeight": 3.0,
+    "numberOfPieces": 2
+  },
+  "warnings": [
+    "Address updated",
+    "Time slot changed"
+  ]
+}

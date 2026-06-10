@@ -1,0 +1,27 @@
+{
+  "dispatchLocation": {
+    "address": {
+      "addressLocality": "Reading",
+      "postalCode": "RG1 1AA",
+      "countryCode": "GB"
+    }
+  },
+  "customerDetails": {
+    "shipperDetails": {
+      "name": "Fred Brent",
+      "phone": "07123456789"
+    }
+  },
+  "pickupDetails": {
+    "isRequested": true,
+    "pickupDate": "2026-06-11",
+    "readyByTime": "10:00",
+    "closeTime": "18:00"
+  },
+  "shipmentDetails": {
+    "totalWeight": 2.5,
+    "unitOfMeasurement": "KG",
+    "numberOfPieces": 1
+  },
+  "specialInstructions": "Handle with care"
+}

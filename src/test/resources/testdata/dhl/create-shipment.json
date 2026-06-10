@@ -1,0 +1,23 @@
+{
+  "plannedShippingDateAndTime": "2026-06-11T10:30:00 GMT+00:00",
+  "pickup": {
+    "isRequested": true
+  },
+  "productCode": "P",
+  "customerDetails": {
+    "shipperDetails": {
+      "name": "Fred Brent",
+      "accountNumber": "123456789"
+    },
+    "receiverDetails": {
+      "name": "John Doe",
+      "postalCode": "SW1A 1AA",
+      "countryCode": "GB"
+    }
+  },
+  "content": {
+    "description": "Electronics",
+    "weight": 1.2,
+    "pieces": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "accounts": [
+    {
+      "number": "123456789",
+      "typeCode": "shipper"
+    }
+  ],
+  "content": {
+    "fileName": "invoice.pdf",
+    "fileFormat": "PDF"
+  },
+  "documentImages": [
+    {
+      "content": "BASE64_ENCODED_STRING",
+      "contentType": "PDF",
+      "imageType": "INVOICE"
+    }
+  ]
+}
